@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Sep 2023 23:35:31 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Akita Inu</title>
+      <link>https://example.org/posts/my-second-post/</link>
+      <pubDate>Sun, 24 Sep 2023 23:35:31 +0200</pubDate>
+      
+      <guid>https://example.org/posts/my-second-post/</guid>
+      <description>
+El Akita Inu es otra raza de perro japonesa, y al igual que el Shiba Inu, es una raza reconocida por su belleza, lealtad y personalidad distintiva </description>
+    </item>
+    
+    <item>
+      <title>Shiba Inu</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 24 Sep 2023 21:39:50 +0200</pubDate>
+      
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>
+El &amp;ldquo;Shiba Inu&amp;rdquo; es una raza de perro japonesa conocida por su tamaño pequeño, su aspecto similar al de un zorro y su personalidad vivaz. Es una de las razas más antiguas y pequeñas de Japón </description>
+    </item>
+    
+  </channel>
+</rss>
